@@ -6,7 +6,7 @@
 # Gradient-generator
 
 
-Градиентный генератор с помощью HTML, CSS, Java Script.
+Градиентный генератор с помощью HTML & CSS & Java Script.
 
 
 P.S.: Нажми на картинку, чтобы посмотреть видео.

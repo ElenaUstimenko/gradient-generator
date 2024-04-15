@@ -1,5 +1,5 @@
 
-[![Обложка к видео «gradient-generator»](./src/image/img.png)](https://youtu.be/-CH5yU_9QsQ)
+[![Обложка к видео «gradient-generator»](./images/img.png)](https://youtu.be/EhutupPPzbI)
 
 
 
